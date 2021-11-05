@@ -1,0 +1,10 @@
+
+### Java ###
+# Compiled class file
+*.class
+
+# Word Documents (Not important)
+*.docx
+
+# Zip files (Not important)
+*.zip
